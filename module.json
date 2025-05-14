@@ -2,7 +2,7 @@
   "id": "vdm-2edicao-sistema",
   "title": "Voz da Mudança 2ª Edição!",
   "description": "Modulo criado pelo servidor do Discord: Inazuma Project RPG com intuito de facilitar as partidas do sistema de RPG inspirado em Inazuma Eleven: Voz da Mudança 2ª Edição",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -28,5 +28,8 @@
       "system": "custom-system-builder",
       "flags": {}
     }
-  ]
+  ],
+  "url:" "https://github.com/SotareliInazumaProject/vdm-2edicao-sistema",
+  "manifest:" "https://raw.githubusercontent.com/SotareliInazumaProject/vdm-2edicao-sistema/refs/heads/main/module.json",
+  "download:" "https://github.com/SotareliInazumaProject/vdm-2edicao-sistema/archive/refs/heads/main.zip"
 }
