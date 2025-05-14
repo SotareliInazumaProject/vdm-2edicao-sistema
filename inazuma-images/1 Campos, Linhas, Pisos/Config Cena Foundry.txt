@@ -1,0 +1,11 @@
+Tamanho da Grade = 100px
+
+L = Largura / A = Altura
+
+Jogo 11x11 = 2400 L / 1700 A
+Jogo 7x7 = 2000 L / 1500 A
+Jogo 5x5 = 1700 L / 1300 A
+
+Você irá escolher uma imagem na pasta de Gramados/Quadras
+E redimensionalizar para dentro da sua exigência
+E incluir o arquivo das linhas por cima centralizando na grade
