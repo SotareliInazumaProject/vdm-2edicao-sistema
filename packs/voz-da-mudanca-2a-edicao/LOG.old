@@ -1,4 +1,6 @@
-2025/05/14-10:17:25.125 23c8 Delete type=3 #1
-2025/05/14-10:47:53.697 1b2c Level-0 table #5: started
-2025/05/14-10:47:53.781 1b2c Level-0 table #5: 708397 bytes OK
-2025/05/14-10:47:53.788 1b2c Delete type=0 #3
+2025/05/14-11:05:29.830 35a8 Recovering log #4
+2025/05/14-11:05:29.842 35a8 Level-0 table #7: started
+2025/05/14-11:05:29.916 35a8 Level-0 table #7: 708346 bytes OK
+2025/05/14-11:05:29.929 35a8 Delete type=0 #4
+2025/05/14-11:05:29.929 35a8 Delete type=3 #2
+2025/05/14-11:07:02.485 21d0 Moved #7 to level-1 708346 bytes OK: files[ 0 1 1 0 0 0 0 ]
